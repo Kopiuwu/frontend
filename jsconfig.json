@@ -1,0 +1,9 @@
+//Katia Montserrat Paredes Hernández TI03SM-23
+
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
